@@ -37,6 +37,8 @@ body, html {
     z-index: 5
 }
 
+.panel span:first-of-type i {color: #ccc}
+
 .panel span{
     position: relative;
     background-color: #777
